@@ -1,0 +1,9 @@
+Transport Layer Security (TLS)
+===============================
+
+This is the implementation of Transport Layer Security Protocol TLS v.1.2 
+based on the RFC 5246 of the Netoworl Working Group.
+
+TLS protocol is applied between the application and transport layer. For the purposes of our work, 
+new gates between these two layers representing the presence of the new protocol.
+
